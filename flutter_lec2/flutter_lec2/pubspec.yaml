@@ -1,0 +1,30 @@
+name: flutter_lec2
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  intl: ^0.19.0
+  google_fonts: ^6.2.1
+  slider_button: ^2.1.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - "assets/logo.png"
+    - "assets/download.jpeg"
+    - "assets/farm.jpeg"
+    - "assets/mar.jpeg"
+    - "assets/oni.jpeg"
+    - "assets/pan.jpeg"
+    - "assets/tom.jpeg"
+    - "assets/chi.jpeg"
